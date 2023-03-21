@@ -4,7 +4,7 @@ import gradio as gr
 import openai
 import time
 # 定义 OpenAI API key
-openai.api_key = "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"
+openai.api_key = "请输入你的openai控制台拿来的key"
 # 定义模型 ID
 model_engine = "text-davinci-003"
 # 定义对话历史记录
